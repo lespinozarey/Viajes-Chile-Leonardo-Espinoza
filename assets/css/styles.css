@@ -1,0 +1,56 @@
+
+
+#titulo-nav {
+    font-family: "Dancing Script";
+}
+
+
+#quienes-somos {
+    background-color: black;
+    padding: 100px;
+    color: white;
+
+    
+}
+#destacados {
+    background-color: black;
+    
+    
+    
+    
+
+} 
+h2 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    
+
+}
+h3 {
+    text-align: center;
+}
+body {
+    font-family:
+    'Open Sans', sansserif;
+
+    }
+
+#contacto {
+    background-color: black;
+    color: rgb(255, 255, 255);
+    padding: 200PX;
+    
+}
+.boton {
+    padding-top: 20px;
+
+}    
+
+footer {
+    background-color: aqua;
+    color: white;
+    
+    
+}
+
+
